@@ -3,7 +3,7 @@ import Chef from "../images/chef.png"
 
 export default function Coding() {
     return (
-        <div className="transition-all delay-300 duration-300 flex flex-col w-auto min-h-screen min-w-screen bg-amber-200 pb-4">
+        <div className="transition-all delay-300 duration-300 flex flex-col w-auto min-h-screen min-w-screen bg-amber-200">
             <Navbar active={1}/>
             <div className="m-auto md:container md:mx-auto md:my-auto m-2">
                 <div className="border-4 border-black">
