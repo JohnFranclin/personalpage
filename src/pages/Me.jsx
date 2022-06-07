@@ -16,7 +16,7 @@ export default function Me() {
                     </div>
                     <div className="">
                         <img src={Face} alt="..."
-                             className="rounded-full m-auto h-auto max-w-xs shadow-xl transition-all duration-300
+                             className="transition-all duration-300 rounded-full m-auto h-auto max-w-xs shadow-xl
                              hover:scale-[1.005] hover:shadow-2xl"/>
                     </div>
                 </div>

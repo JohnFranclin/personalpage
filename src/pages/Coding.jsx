@@ -10,7 +10,7 @@ export default function Coding() {
                     <div className="grid lg:grid-cols-2 gap-4">
                         <div className="grid grid-rows-3 gap-4 p-4">
                             <div
-                                className="text-9xl md:text-9xl text-left align-text-bottom inline break-words overflow-hidden max-w-xl">
+                                className="w-full text-9xl md:text-9xl text-left align-text-bottom inline break-words overflow-hidden max-w-xl">
                                 Coding
                             </div>
                             <div className="text-2xl md:text-4xl text-left align-text-top">

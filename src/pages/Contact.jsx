@@ -14,7 +14,7 @@ export default function Contact() {
                             </div>
                         </div>
                         <div className="grid grid-rows-2 gap-4 p-4">
-                            <div className="text-9xl text-right align-text-bottom inline break-words overflow-hidden max-w-xl">
+                            <div className="text-9xl text-right inline break-words overflow-hidden max-w-xl">
                                 Contact Me
                             </div>
                             <div className="text-right grid grid-rows-3 text-xl">
