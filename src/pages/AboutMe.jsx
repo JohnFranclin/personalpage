@@ -3,10 +3,10 @@ import Chef from "../images/chef.png"
 
 export default function Coding() {
     return (
-        <div className="transition-all delay-300 duration-300 flex flex-col w-auto min-h-screen min-w-screen bg-amber-200">
+        <div className="flex flex-col w-auto min-h-screen min-w-screen">
             <Navbar active={1}/>
             <div className="m-auto md:container md:mx-auto md:my-auto m-2">
-                <div className="border-4 border-black">
+                <div className="border-4 border-black shadow-2xl">
                     <div className="grid lg:grid-cols-2 gap-4">
                         <div className="flex">
                             <div className="m-auto">

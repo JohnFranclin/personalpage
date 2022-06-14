@@ -10,7 +10,7 @@ import Me from "./pages/Me";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-      <div className="App">
+      <div className="App font-mono bg-amber-200">
           <BrowserRouter>
               <Routes>
                   <Route exact path="/" element={<Me />} />

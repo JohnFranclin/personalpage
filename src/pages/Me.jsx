@@ -4,7 +4,7 @@ import Face from "../images/face.jpeg";
 export default function Me() {
     return (
         <div
-            className="transition-all delay-300 duration-300 flex flex-col w-auto min-h-screen min-w-screen bg-amber-200 pb-4">
+            className="transition-all delay-300 duration-300 flex flex-col w-auto min-h-screen min-w-screen pb-4">
             <Navbar active={0}/>
             <div className="m-auto md:container md:mx-auto md:my-auto m-2">
                 <div className="grid md:grid-cols-2 gap-4">

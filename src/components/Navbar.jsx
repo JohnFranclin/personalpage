@@ -1,8 +1,9 @@
-export default function Navar(props= {active: 0}) {
+export default function Navbar(props= {active: 0}) {
     const classes = {
         active: "hover:scale-[1.02] hover:text-slate-500 underline text-xl",
         inactive: "hover:scale-[1.02] hover:text-slate-500"
     }
+
     return (
         <div className="h-auto w-full">
             <div className="grid grid-cols-4 gap-4 m-4">
